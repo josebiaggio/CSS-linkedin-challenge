@@ -1,2 +1,3 @@
-# CSS-linkedin-challenge
-Desafio CSS do módulo 1 do curso Web Full Stack da Let's Code
+# first-project-santander-coders-2021
+The objective of this project was replicated the layout of my linkedin profile, using css and html only.
+
