@@ -3,6 +3,8 @@
 
 # About project
 
+https://focused-clarke-934c38.netlify.app/
+
 Static page created using HTML and CSS. The purpose of this project was to create a "clone" of my linkedin profile. This was the final project from module 1 of **Santander Coders 2021**.
 
 ## Layout web
